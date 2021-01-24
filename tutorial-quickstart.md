@@ -217,7 +217,7 @@ HTTP/1.1 200 OK
 
 ![](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/c0b1d2b3-8c6d-4a02-858a-f81905589183/_2021-01-20__3.18.05.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAT73L2G45O3KS52Y5%2F20210124%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20210124T033536Z&X-Amz-Expires=86400&X-Amz-Signature=efce40e4c67d47c4e4f6b3b70980580cca9aa1e098b71f03b082b6ffb515ac2a&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22_2021-01-20__3.18.05.png%22)
 
-![](https://www.notion.so/Quickstart-dd206814f9214605949e2a908d3c2b10#3d354ecc8e6e460f92e4946dbee411bd)
+![](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/ea2db998-53a8-40c1-8aae-d8c33dd0c937/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAT73L2G45O3KS52Y5%2F20210124%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20210124T033728Z&X-Amz-Expires=86400&X-Amz-Signature=8e8b5ecd9987ee85d77254c38313d39498064f412a73a91275fbf7783900fb7a&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22)
 
 ## Admin
 
@@ -238,8 +238,8 @@ urlpatterns = [
 
 세팅을 저장해준 후 `127.0.0.1:8000/admin`으로  접속해 아까 만들어주었던 username과 password로 로그인해주고 다시 `127.0.0.1:8000/users`로 접속하니 위 화면처럼 잘 나오는 것을 확인했다!
 
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/b0a21d2e-2cff-46e3-b239-5127a9347bc0/_2021-01-20__3.50.33.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/b0a21d2e-2cff-46e3-b239-5127a9347bc0/_2021-01-20__3.50.33.png)
+![](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/b0a21d2e-2cff-46e3-b239-5127a9347bc0/_2021-01-20__3.50.33.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAT73L2G45O3KS52Y5%2F20210124%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20210124T033748Z&X-Amz-Expires=86400&X-Amz-Signature=5384ec2dc808e477fd7e6c2a5e8500b84ddcb9c302e5f21e50615a0821398c69&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22_2021-01-20__3.50.33.png%22)
 
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/3ee350c6-5497-48b2-9546-3c5df5732641/_2021-01-20__3.51.25.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/3ee350c6-5497-48b2-9546-3c5df5732641/_2021-01-20__3.51.25.png)
+![](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/3ee350c6-5497-48b2-9546-3c5df5732641/_2021-01-20__3.51.25.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAT73L2G45O3KS52Y5%2F20210124%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20210124T033825Z&X-Amz-Expires=86400&X-Amz-Signature=540d27de45d3983f536b95cef84cfdca82bd7a66d658860f1d69adb381b48d25&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22_2021-01-20__3.51.25.png%22)
 
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/ea2db998-53a8-40c1-8aae-d8c33dd0c937/Untitled.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/ea2db998-53a8-40c1-8aae-d8c33dd0c937/Untitled.png)
+![](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/ea2db998-53a8-40c1-8aae-d8c33dd0c937/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAT73L2G45O3KS52Y5%2F20210124%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20210124T033808Z&X-Amz-Expires=86400&X-Amz-Signature=22ffa4d02bfe64820ca0f9abca17d32a9b7f804e603e4b5e5f169c470a9f2a17&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22)
