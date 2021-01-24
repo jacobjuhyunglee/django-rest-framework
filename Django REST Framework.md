@@ -1,4 +1,4 @@
-**Django Rest Framework(DRF)**란 Django 안에서 RESTful API 서버를 쉽게 구축할 수 있도록 도와주는 오픈 소스 라이브러리이다.
+*Django Rest Framework(DRF)*란 Django 안에서 RESTful API 서버를 쉽게 구축할 수 있도록 도와주는 오픈 소스 라이브러리이다.
 
 **REST(REpresentational State Transfer)**란 웹에 존재하는 모든 자원(resorce, ex. 이미지, 동영상, 데이터)에 고유한 URI를 부여하여 자원에 대한 주소를 지정하는 방법론, 또는 규칙이다.
 
