@@ -215,7 +215,7 @@ HTTP/1.1 200 OK
 
 **brower**
 
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/c0b1d2b3-8c6d-4a02-858a-f81905589183/_2021-01-20__3.18.05.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/c0b1d2b3-8c6d-4a02-858a-f81905589183/_2021-01-20__3.18.05.png)
+![](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/c0b1d2b3-8c6d-4a02-858a-f81905589183/_2021-01-20__3.18.05.png)
 
 ![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/ea2db998-53a8-40c1-8aae-d8c33dd0c937/Untitled.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/ea2db998-53a8-40c1-8aae-d8c33dd0c937/Untitled.png)
 
